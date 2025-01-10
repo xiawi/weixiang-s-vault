@@ -36,4 +36,3 @@ Now, we get to the actual hard part. I want to work some good habits into these 
 - [ ] 9:30 PM no screens
 - [ ] Reading
 # Updates
-test
