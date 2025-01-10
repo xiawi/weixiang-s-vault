@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/book.md",
+                "file": "Disciplining Sleep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "book"
+              "title": "Disciplining Sleep"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/book.md",
+                "file": "Disciplining Sleep.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for book"
+              "title": "Backlinks for Disciplining Sleep"
             }
           },
           {
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/book.md"
+                "file": "Disciplining Sleep.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of book"
+              "title": "Outline of Disciplining Sleep"
             }
           },
           {
@@ -168,9 +168,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "8fdf45907210ccc0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -185,11 +195,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "db761d542a72b452",
   "lastOpenFiles": [
+    "templates/book.md",
     "templates/note.md",
     "templates/daily-note.md",
     "templates/moc.md",
@@ -198,7 +210,6 @@
     "daily-notes/2025-01-10 Friday.md",
     "Disciplining Work.md",
     "test.md",
-    "templates/book.md",
     "daily-notes",
     "templates",
     "daily-notes",
