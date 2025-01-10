@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1439ca4036bf5803",
+        "id": "d2968dc706e702f4",
         "type": "tabs",
         "children": [
           {
-            "id": "a666a93547d7ad3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "note"
-            }
-          },
-          {
-            "id": "db761d542a72b452",
+            "id": "f72fd2eb8f99f0f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "Disciplining Sleep"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,16 +145,6 @@
             }
           },
           {
-            "id": "34f030d0462f821e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "8fdf45907210ccc0",
             "type": "leaf",
             "state": {
@@ -178,9 +153,35 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "9080dbf45c47732a",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
+      },
+      {
+        "id": "70aedb56ddaf7ca7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34f030d0462f821e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,14 +200,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db761d542a72b452",
+  "active": "8fdf45907210ccc0",
   "lastOpenFiles": [
-    "templates/book.md",
     "templates/note.md",
+    "Disciplining Sleep.md",
+    "templates/book.md",
     "templates/daily-note.md",
     "templates/moc.md",
     "2025 Action Plan MOC.md",
-    "Disciplining Sleep.md",
     "daily-notes/2025-01-10 Friday.md",
     "Disciplining Work.md",
     "test.md",
