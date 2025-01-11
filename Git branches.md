@@ -9,4 +9,5 @@ To allow users to work on different parts of a project without impacting the mai
 # Commands
 - `git branch <branch-name>` - to create new branch
 - `git branch` - to view existing branches
-- `git checkout <branch-name>` - to switch to a new branch
+- `git checkout <branch-name>` - to switch to another branch
+- `git checkout -b <branch-name` - to create or and switch to new branch (if does not exist)
