@@ -11,3 +11,4 @@ description: Learning Git using w3schools and other external resources
 - [[Git staging environments]]
 - [[Git commits]]
 - [[Git branches]]
+- [[Merging Git branches]]
