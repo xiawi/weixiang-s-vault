@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "d8fea9ea85efbba8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git commits.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git commits"
+            }
+          },
+          {
             "id": "a851ae984b88d991",
             "type": "leaf",
             "state": {
@@ -239,9 +253,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a851ae984b88d991",
+  "active": "d8fea9ea85efbba8",
   "lastOpenFiles": [
     "Git.md",
+    "Git commits.md",
     "Git staging environments.md",
     "Files in Git repo.md",
     "daily-notes/2025-01-11 Saturday.md",
