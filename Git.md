@@ -10,3 +10,4 @@ description: Learning Git using w3schools and other external resources
 - [[Files in Git repo]]
 - [[Git staging environments]]
 - [[Git commits]]
+- [[Git branches]]
