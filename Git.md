@@ -8,3 +8,4 @@ description: Learning Git using w3schools and other external resources
 ```
 # Notes
 - [[Files in Git repo]]
+- [[Git staging environments]]
