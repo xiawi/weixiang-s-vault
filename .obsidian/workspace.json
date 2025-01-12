@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Disciplining Sleep.md",
+                "file": "daily-notes/2025-01-12 Sunday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Disciplining Sleep"
+              "title": "2025-01-12 Sunday"
             }
           },
           {
@@ -297,8 +297,9 @@
   },
   "active": "ef71a2fd5c43dbc0",
   "lastOpenFiles": [
-    "daily-notes/2025-01-11 Saturday.md",
     "Disciplining Sleep.md",
+    "daily-notes/2025-01-12 Sunday.md",
+    "daily-notes/2025-01-11 Saturday.md",
     "Pro Git.md",
     "Merging Git branches.md",
     "Git.md",
