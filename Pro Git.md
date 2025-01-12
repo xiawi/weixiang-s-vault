@@ -7,3 +7,5 @@ date:
 Book on [[Git]]
 ```table-of-contents
 ```
+# Getting Started
+- [[What is Git]]
