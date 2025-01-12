@@ -2,5 +2,6 @@
 tags:
   - book
 author(s): 
-date:
+date started: 
+date completed:
 ---

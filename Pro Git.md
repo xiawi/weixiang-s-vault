@@ -2,7 +2,8 @@
 tags:
   - book
 author(s): Scott Chacon, Ben Straub
-date:
+date started: 2025-01-11
+date completed:
 ---
 Book on [[Git]]
 ```table-of-contents
