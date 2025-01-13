@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main sections in a Git repo.md",
+                "file": "daily-notes/2025-01-13 Monday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main sections in a Git repo"
+              "title": "2025-01-13 Monday"
             }
           },
           {
@@ -335,11 +335,11 @@
   },
   "active": "426eca547f659ed4",
   "lastOpenFiles": [
-    "Pro Git.md",
+    "daily-notes/2025-01-11 Saturday.md",
     "Main sections in a Git repo.md",
+    "Pro Git.md",
     "Files in Git repo.md",
     "What is Git.md",
-    "daily-notes/2025-01-11 Saturday.md",
     "daily-notes/2025-01-13 Monday.md",
     "daily-notes/2025-01-12 Sunday.md",
     "daily-notes/2025-01-10 Friday.md",
