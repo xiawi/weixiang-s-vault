@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What is Git.md",
+                "file": "Files in Git repo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is Git"
+              "title": "Files in Git repo"
             }
           },
           {
@@ -132,9 +132,19 @@
               "icon": "lucide-file",
               "title": "Files in Git repo"
             }
+          },
+          {
+            "id": "d9be6bb12d58217d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -309,15 +319,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "00ed4acfd6a9ea64",
+  "active": "d295d23f112fa16e",
   "lastOpenFiles": [
+    "Files in Git repo.md",
+    "Pro Git.md",
+    "What is Git.md",
     "daily-notes/2025-01-11 Saturday.md",
     "daily-notes/2025-01-13 Monday.md",
     "daily-notes/2025-01-12 Sunday.md",
     "daily-notes/2025-01-10 Friday.md",
     "2025 Action Plan MOC.md",
-    "What is Git.md",
-    "Pro Git.md",
     "templates/book.md",
     "templates/moc.md",
     "templates/daily-note.md",
@@ -326,7 +337,6 @@
     "Git.md",
     "Git branches.md",
     "Git commits.md",
-    "Files in Git repo.md",
     "Git staging environments.md",
     "templates/note.md",
     "Disciplining Work.md",
