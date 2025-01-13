@@ -10,3 +10,4 @@ Book on [[Git]]
 ```
 # Getting Started
 - [[What is Git]]
+- [[Main sections in a Git repo]]
