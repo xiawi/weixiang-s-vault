@@ -8,175 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f72fd2eb8f99f0f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2025-01-11 Saturday.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-01-11 Saturday"
-            }
-          },
-          {
-            "id": "2a6003a5d4bb8524",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git"
-            }
-          },
-          {
-            "id": "49cc4b106c6ec78f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Merging Git branches.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Merging Git branches"
-            }
-          },
-          {
-            "id": "ef71a2fd5c43dbc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pro Git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pro Git"
-            }
-          },
-          {
-            "id": "00ed4acfd6a9ea64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Files in Git repo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Files in Git repo"
-            }
-          },
-          {
-            "id": "694df4d74e99af2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git branches.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git branches"
-            }
-          },
-          {
-            "id": "d8fea9ea85efbba8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git commits.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git commits"
-            }
-          },
-          {
-            "id": "a851ae984b88d991",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git staging environments.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git staging environments"
-            }
-          },
-          {
-            "id": "d295d23f112fa16e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pro Git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pro Git"
-            }
-          },
-          {
-            "id": "426eca547f659ed4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pro Git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pro Git"
-            }
-          },
-          {
-            "id": "bbeb72e4ea7f25f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pro Git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pro Git"
-            }
-          },
-          {
             "id": "468f8a7a5e56d128",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gitignore patterns.md",
+                "file": "Disciplining Sleep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gitignore patterns"
+              "title": "Disciplining Sleep"
+            }
+          },
+          {
+            "id": "352d7028f8371880",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Disciplining Work.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Disciplining Work"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -351,10 +211,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6de74abceeb45965",
+  "active": "352d7028f8371880",
   "lastOpenFiles": [
-    "gitignore patterns.md",
+    "Disciplining Sleep.md",
+    "2025 Action Plan MOC.md",
+    "Disciplining Work.md",
+    "Pro Git.md",
+    "Git staging environments.md",
+    "Git commits.md",
+    "Git branches.md",
+    "Files in Git repo.md",
+    "daily-notes/2025-01-15 Wednesday.md",
     "glob patterns.md",
+    "gitignore patterns.md",
     "templates/book.md",
     "daily-notes/2025-01-12 Sunday.md",
     "daily-notes/2025-01-10 Friday.md",
@@ -362,25 +231,16 @@
     "Merging Git branches.md",
     "daily-notes/2025-01-13 Monday.md",
     "daily-notes/2025-01-14 Tuesday.md",
-    "Pro Git.md",
-    "Files in Git repo.md",
     "Git.md",
     "Git config files.md",
     "Main sections in a Git repo.md",
     "What is Git.md",
-    "2025 Action Plan MOC.md",
     "templates/moc.md",
     "templates/daily-note.md",
-    "Disciplining Sleep.md",
-    "Git branches.md",
-    "Git commits.md",
-    "Git staging environments.md",
     "templates/note.md",
-    "Disciplining Work.md",
     "test.md",
     "daily-notes",
     "templates",
-    "daily-notes",
-    "Welcome.md"
+    "daily-notes"
   ]
 }
