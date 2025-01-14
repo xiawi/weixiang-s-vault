@@ -12,3 +12,5 @@ Book on [[Git]]
 - [[What is Git]]
 - [[Main sections in a Git repo]]
 - [[Git config files]]
+# Git Basics
+- [[gitignore patterns]]
