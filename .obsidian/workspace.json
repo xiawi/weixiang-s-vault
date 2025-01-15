@@ -55,16 +55,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git rm.md",
+                "file": "Pro Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git rm"
+              "title": "Pro Git"
+            }
+          },
+          {
+            "id": "7720e080bea0eab4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -116,7 +126,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -239,8 +250,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "61e9459ad52a063a",
+  "active": "7720e080bea0eab4",
   "lastOpenFiles": [
+    "Main sections in a Git repo.md",
+    "git log.md",
     "Pro Git.md",
     "git rm.md",
     "git diff.md",
@@ -263,10 +276,8 @@
     "daily-notes/2025-01-13 Monday.md",
     "daily-notes/2025-01-14 Tuesday.md",
     "Git.md",
-    "Main sections in a Git repo.md",
     "What is Git.md",
     "templates/moc.md",
-    "templates/daily-note.md",
     "daily-notes",
     "templates",
     "daily-notes"
