@@ -12,4 +12,4 @@ lists commits logged in the repository.
 - `git log --since <date/time>`
 - `git log --until <date/time>`
 - `git log -S <string>` takes a string and shows only commits that change the number of occurrences of that string.
-- `git log -- <path_to_file>`
+- `git log -- <path_to_file>` shows commits that only made changes to specific files.
