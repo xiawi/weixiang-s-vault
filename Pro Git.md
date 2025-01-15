@@ -14,3 +14,4 @@ Book on [[Git]]
 - [[Git config files]]
 # Git Basics
 - [[gitignore patterns]]
+- [[git diff]]
