@@ -9,4 +9,6 @@ lists commits logged in the repository.
 - `git log -p` shows the difference introduced in each commit.
 - `git log --graph` shows graph with branches.
 # Limiting Log Outputs
-- `git log --since=<num>.<time>`
+- `git log --since <date/time>`
+- `git log --until <date/time>`
+- 
