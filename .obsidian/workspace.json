@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,11 +225,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c2205353dfb9356",
+  "active": "464a5e360b4d12cf",
   "lastOpenFiles": [
+    "daily-notes/2025-01-16 Thursday.md",
     "templates/project.md",
     "Brawlhalla Ranked Widget.md",
-    "daily-notes/2025-01-16 Thursday.md",
     "30 Projects before 30.md",
     "daily-notes/2025-01-15 Wednesday.md",
     "Undoing things on Git.md",
