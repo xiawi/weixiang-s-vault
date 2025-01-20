@@ -18,3 +18,9 @@ date completed:
 2. **Suppose you double the size of the list. What’s the maximum number of steps now?**
    Eight, since binary search effectively halves the search space each loop-through.
 ## Big O notation
+### Some common Big O run times
+#### Exercises
+3. O(log(n))
+4. O(n)
+5. O(n)
+6. O(n)
