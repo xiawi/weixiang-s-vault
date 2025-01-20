@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linked Lists.md",
+                "file": "daily-notes/2025-01-20 Monday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linked Lists"
+              "title": "2025-01-20 Monday"
             }
           }
         ]
@@ -198,9 +198,9 @@
   },
   "active": "8d125fa05edaa971",
   "lastOpenFiles": [
+    "Linked Lists.md",
     "Grokking Algorithms.md",
     "Selection Sort.md",
-    "Linked Lists.md",
     "Arrays.md",
     "How computer memory works.md",
     "Binary Search.md",
