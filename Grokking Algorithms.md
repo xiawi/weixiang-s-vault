@@ -43,3 +43,10 @@ date completed:
 4. O(n) insertions. Slow insertions because elements may need to shift in order to make room for new ones to keep sorting. 
 5. Insertions: Faster than an array
    Searching: Faster than a linked list, slower than an array.
+## [[Selection Sort]]
+# Recursion
+## Base case and recursive case
+- When writing a recursive function, it is important that it has both parts: the recursive case and the base case.
+- The recursive case is when the function calls itself.
+- The base case is when the function stops calling itself; it completes.
+## The stack
