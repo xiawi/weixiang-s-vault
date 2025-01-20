@@ -17,4 +17,4 @@ date completed:
    It would take a maximum of $log_{2}128 = 7$ steps.
 2. **Suppose you double the size of the list. What’s the maximum number of steps now?**
    Eight, since binary search effectively halves the search space each loop-through.
-## 
+## Big O notation
