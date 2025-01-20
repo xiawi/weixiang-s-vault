@@ -24,3 +24,4 @@ date completed:
 4. O(n)
 5. O(n)
 6. O(n)
+# Selection Sort
