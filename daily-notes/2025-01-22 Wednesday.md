@@ -1,8 +1,6 @@
 ---
 tags:
   - daily-note
-banner: 
-sticker: ""
 ---
 A bit of a late log today. I woke up at around 8 AM, lazed around in bed for a bit and had breakfast before going out to shoot some hoops with Marcus. My hands sort of sting at the moment, not sure if that's due to the friction from the ball or just poorly cut nails. I tried the apple juice Ji Chuan recommended me too. It's a little too slimy for me, but it wasn't terrible.
 
