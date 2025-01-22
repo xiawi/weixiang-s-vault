@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 Projects before 30.md",
+                "file": "30 Projects Before 30.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "30 Projects before 30"
+              "title": "30 Projects Before 30"
             }
           }
         ]
@@ -199,8 +199,14 @@
   },
   "active": "411fd9e0a85c5cf9",
   "lastOpenFiles": [
-    "daily-notes/2025-01-10 Friday.md",
+    "Undoing things on Git.md",
+    "git log.md",
+    "30 Projects Before 30.md",
+    "Brawlhalla Ranked Widget.md",
     "Pro Git.md",
+    "Git.md",
+    "Git branches.md",
+    "daily-notes/2025-01-10 Friday.md",
     "Grokking Algorithms.md",
     "templates/project.md",
     "templates/weekly-note.md",
@@ -218,14 +224,8 @@
     "Binary Search.md",
     "daily-notes/2025-01-19 Sunday.md",
     "daily-notes/2025-01-18 Saturday.md",
-    "Brawlhalla Ranked Widget.md",
-    "30 Projects before 30.md",
     "daily-notes/2025-01-17 Friday.md",
-    "daily-notes/2025-01-16 Thursday.md",
-    "weekly-notes/2025-W03.md",
-    "templates/daily-note.md",
     "weekly-notes",
-    "daily-notes/2025-01-15 Wednesday.md",
     "daily-notes",
     "templates",
     "daily-notes"
