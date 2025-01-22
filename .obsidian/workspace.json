@@ -194,9 +194,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false,
-      "advanced-random-note:Open random note modal": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e7a7b303c61786dc",
