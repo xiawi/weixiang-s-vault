@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main sections in a Git repo.md",
+                "file": "Selection Sort.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main sections in a Git repo"
+              "title": "Selection Sort"
             }
           }
         ]
@@ -194,11 +194,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "c480743ca75b5bd5",
   "lastOpenFiles": [
+    "Grokking Algorithms.md",
+    "Main sections in a Git repo.md",
+    "Untitled.canvas",
     "git diff.md",
     "templates/book.md",
     "2025 Action Plan MOC.md",
@@ -210,10 +214,8 @@
     "Tags/Tags.md",
     "Selection Sort.md",
     "Linked Lists.md",
-    "Grokking Algorithms.md",
     "Vault.md",
     "templates/daily-note.md",
-    "Untitled.canvas",
     "templates/project.md",
     "templates/weekly-note.md",
     "daily-notes/2025-01-18 Saturday.md",
@@ -225,8 +227,6 @@
     "Undoing things on Git.md",
     "git rm.md",
     "Tags",
-    "git log.md",
-    "Brawlhalla Ranked Widget.md",
     "weekly-notes",
     "daily-notes",
     "templates",
