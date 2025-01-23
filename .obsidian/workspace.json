@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2025-01-23 Thursday.md",
+                "file": "Main sections in a Git repo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-23 Thursday"
+              "title": "Main sections in a Git repo"
             }
           }
         ]
@@ -199,21 +199,21 @@
   },
   "active": "c480743ca75b5bd5",
   "lastOpenFiles": [
-    "Pro Git.md",
-    "daily-notes/2025-01-23 Thursday.md",
     "git diff.md",
+    "templates/book.md",
+    "2025 Action Plan MOC.md",
+    "30 Projects Before 30.md",
+    "daily-notes/2025-01-23 Thursday.md",
+    "Pro Git.md",
     "gitignore patterns.md",
     "Files in Git repo.md",
-    "2025 Action Plan MOC.md",
     "Tags/Tags.md",
-    "30 Projects Before 30.md",
     "Selection Sort.md",
     "Linked Lists.md",
     "Grokking Algorithms.md",
     "Vault.md",
     "templates/daily-note.md",
     "Untitled.canvas",
-    "templates/book.md",
     "templates/project.md",
     "templates/weekly-note.md",
     "daily-notes/2025-01-18 Saturday.md",
