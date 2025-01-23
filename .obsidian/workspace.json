@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pro Git.md",
+                "file": "daily-notes/2025-01-23 Thursday.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pro Git"
+              "title": "2025-01-23 Thursday"
             }
           }
         ]
@@ -199,6 +199,8 @@
   },
   "active": "c480743ca75b5bd5",
   "lastOpenFiles": [
+    "Pro Git.md",
+    "daily-notes/2025-01-23 Thursday.md",
     "git diff.md",
     "gitignore patterns.md",
     "Files in Git repo.md",
@@ -222,11 +224,9 @@
     "Git.md",
     "Undoing things on Git.md",
     "git rm.md",
-    "Pro Git.md",
     "Tags",
     "git log.md",
     "Brawlhalla Ranked Widget.md",
-    "Git branches.md",
     "weekly-notes",
     "daily-notes",
     "templates",
