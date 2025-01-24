@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Selection Sort.md",
+                "file": "Merging Git branches.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Selection Sort"
+              "title": "Merging Git branches"
             }
           }
         ]
@@ -194,14 +194,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "obsidian-git:Open Git source control": false,
-      "workspaces:Manage workspace layouts": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "c480743ca75b5bd5",
   "lastOpenFiles": [
-    "Grokking Algorithms.md",
+    "Git.md",
     "Main sections in a Git repo.md",
+    "Binary Search.md",
+    "How computer memory works.md",
+    "Arrays.md",
+    "Linked Lists.md",
+    "Selection Sort.md",
+    "Grokking Algorithms.md",
     "Untitled.canvas",
     "git diff.md",
     "templates/book.md",
@@ -212,8 +217,6 @@
     "gitignore patterns.md",
     "Files in Git repo.md",
     "Tags/Tags.md",
-    "Selection Sort.md",
-    "Linked Lists.md",
     "Vault.md",
     "templates/daily-note.md",
     "templates/project.md",
@@ -223,9 +226,6 @@
     "daily-notes/2025-01-19 Sunday.md",
     "daily-notes/2025-01-22 Wednesday.md",
     "daily-notes/daily-notes.md",
-    "Git.md",
-    "Undoing things on Git.md",
-    "git rm.md",
     "Tags",
     "weekly-notes",
     "daily-notes",
