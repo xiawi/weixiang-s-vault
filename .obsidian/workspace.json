@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Merging Git branches.md",
+                "file": "daily-notes/2025-01-24 Friday.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Merging Git branches"
+              "title": "2025-01-24 Friday"
             }
           }
         ]
@@ -199,6 +199,8 @@
   },
   "active": "c480743ca75b5bd5",
   "lastOpenFiles": [
+    "Merging Git branches.md",
+    "daily-notes/2025-01-24 Friday.md",
     "Git.md",
     "Main sections in a Git repo.md",
     "Binary Search.md",
@@ -224,8 +226,6 @@
     "daily-notes/2025-01-18 Saturday.md",
     "daily-notes/2025-01-21 Tuesday.md",
     "daily-notes/2025-01-19 Sunday.md",
-    "daily-notes/2025-01-22 Wednesday.md",
-    "daily-notes/daily-notes.md",
     "Tags",
     "weekly-notes",
     "daily-notes",
