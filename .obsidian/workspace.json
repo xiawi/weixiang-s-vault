@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brawlhalla Ranked Widget.md",
+                "file": "Grokking Algorithms.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brawlhalla Ranked Widget"
+              "title": "Grokking Algorithms"
             }
           }
         ]
@@ -199,6 +199,7 @@
   },
   "active": "c480743ca75b5bd5",
   "lastOpenFiles": [
+    "Brawlhalla Ranked Widget.md",
     "Git staging environments.md",
     "templates/note.md",
     "daily-notes/2025-01-28 Tuesday.md",
@@ -225,7 +226,6 @@
     "Files in Git repo.md",
     "Tags/Tags.md",
     "Vault.md",
-    "templates/daily-note.md",
     "Tags",
     "weekly-notes",
     "daily-notes",
