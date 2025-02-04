@@ -13,16 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2025-02-04 Tuesday.md",
+                "file": "Grokking Algorithms.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-04 Tuesday"
+              "title": "Grokking Algorithms"
+            }
+          },
+          {
+            "id": "c31b82e73ceda44e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,10 +211,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c480743ca75b5bd5",
+  "active": "c31b82e73ceda44e",
   "lastOpenFiles": [
-    "daily-notes/2025-01-31 Friday.md",
+    "gitignore patterns.md",
+    "git log.md",
+    "git rm.md",
+    "git diff.md",
+    "Undoing things on Git.md",
+    "Pro Git.md",
+    "Git config files.md",
+    "How computer memory works.md",
+    "daily-notes/2025-01-20 Monday.md",
+    "daily-notes/2025-01-24 Friday.md",
+    "daily-notes/2025-01-17 Friday.md",
+    "30 Projects Before 30.md",
+    "daily-notes/2025-01-21 Tuesday.md",
     "daily-notes/2025-02-04 Tuesday.md",
+    "daily-notes/2025-01-31 Friday.md",
     "daily-notes/2025-01-30 Thursday.md",
     "daily-notes/2025-01-29 Wednesday.md",
     "Grokking Algorithms.md",
@@ -211,22 +237,9 @@
     "daily-notes/2025-01-28 Tuesday.md",
     "daily-notes/2025-01-26 Sunday.md",
     "daily-notes/2025-01-25 Saturday.md",
-    "daily-notes/2025-01-24 Friday.md",
     "Merging Git branches.md",
     "Git.md",
-    "Main sections in a Git repo.md",
-    "Binary Search.md",
-    "How computer memory works.md",
-    "Arrays.md",
-    "Linked Lists.md",
-    "Selection Sort.md",
     "Untitled.canvas",
-    "git diff.md",
-    "templates/book.md",
-    "2025 Action Plan MOC.md",
-    "30 Projects Before 30.md",
-    "daily-notes/2025-01-23 Thursday.md",
-    "Pro Git.md",
     "Tags",
     "weekly-notes",
     "daily-notes",
