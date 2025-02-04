@@ -26,12 +26,10 @@
             "id": "c31b82e73ceda44e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -213,6 +211,7 @@
   },
   "active": "c31b82e73ceda44e",
   "lastOpenFiles": [
+    "daily-notes/2025-02-05 Wednesday.md",
     "gitignore patterns.md",
     "git log.md",
     "git rm.md",
@@ -238,7 +237,6 @@
     "daily-notes/2025-01-26 Sunday.md",
     "daily-notes/2025-01-25 Saturday.md",
     "Merging Git branches.md",
-    "Git.md",
     "Untitled.canvas",
     "Tags",
     "weekly-notes",
