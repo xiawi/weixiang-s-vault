@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2025-01-30 Thursday.md",
+                "file": "daily-notes/2025-01-31 Friday.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-30 Thursday"
+              "title": "2025-01-31 Friday"
             }
           }
         ]
@@ -41,7 +41,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -200,6 +201,7 @@
   "active": "c480743ca75b5bd5",
   "lastOpenFiles": [
     "daily-notes/2025-01-30 Thursday.md",
+    "daily-notes/2025-01-31 Friday.md",
     "daily-notes/2025-01-29 Wednesday.md",
     "Grokking Algorithms.md",
     "Brawlhalla Ranked Widget.md",
@@ -225,7 +227,6 @@
     "daily-notes/2025-01-23 Thursday.md",
     "Pro Git.md",
     "gitignore patterns.md",
-    "Files in Git repo.md",
     "Tags",
     "weekly-notes",
     "daily-notes",
