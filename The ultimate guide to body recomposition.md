@@ -19,3 +19,8 @@ You're mostly going to be gucci.
 
 ## Understanding Recomposition
 Body recomp refers to reducing body fate percentage alongside increasing lean body mass.
+
+Nippard and Barakat expand the definition of body recomposition to include three possible scenarios:
+1. You build muscle while simultaneously losing fat.
+2. You build muscle mass while maintaining body fat mass.
+3. 
