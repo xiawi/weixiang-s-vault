@@ -28,3 +28,5 @@ Nippard and Barakat expand the definition of body recomposition to include three
 > "Give ordinary people the right tools and they will build the most extraordinary things."
 > Neil Gershenfeld
 
+## Mandatory Tools
+1. Weight Scale
