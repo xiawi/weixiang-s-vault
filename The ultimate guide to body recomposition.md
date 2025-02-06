@@ -8,3 +8,5 @@ date completed:
 ```table-of-contents
 ```
 # 01 The Start Line
+> "Everything should be made as simple as possible, not simpler."
+> Albert Einstein
