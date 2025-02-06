@@ -24,3 +24,7 @@ Nippard and Barakat expand the definition of body recomposition to include three
 1. You build muscle while simultaneously losing fat.
 2. You build muscle mass while maintaining body fat mass.
 3. You lose fat while maintaining muscle mass.
+# 02 The Tools of Titans
+> "Give ordinary people the right tools and they will build the most extraordinary things."
+> Neil Gershenfeld
+
