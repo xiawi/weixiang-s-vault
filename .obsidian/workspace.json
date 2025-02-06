@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The ultimate guide to body recomposition.md",
+                "file": "daily-notes/2025-02-06 Thursday.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "The ultimate guide to body recomposition"
+              "title": "2025-02-06 Thursday"
             }
           }
         ],
@@ -215,8 +215,9 @@
   },
   "active": "c40f13b08b9248c1",
   "lastOpenFiles": [
-    "Grokking Algorithms.md",
     "The ultimate guide to body recomposition.md",
+    "daily-notes/2025-02-06 Thursday.md",
+    "Grokking Algorithms.md",
     "daily-notes/2025-02-05 Wednesday.md",
     "daily-notes/2025-01-31 Friday.md",
     "gitignore patterns.md",
@@ -240,7 +241,6 @@
     "templates/note.md",
     "daily-notes/2025-01-28 Tuesday.md",
     "daily-notes/2025-01-26 Sunday.md",
-    "daily-notes/2025-01-25 Saturday.md",
     "Untitled.canvas",
     "Tags",
     "weekly-notes",
