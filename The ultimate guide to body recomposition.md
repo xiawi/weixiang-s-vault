@@ -32,3 +32,4 @@ Nippard and Barakat expand the definition of body recomposition to include three
 ### Weighing Scale
 - Weigh as soon as you wake up, after using the bathroom before drinking any water or eating food.
 ### Measuring Tape
+- Take measurements consistently. Either at the belly button or the smallest site on the waist.
