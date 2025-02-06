@@ -36,3 +36,5 @@ Nippard and Barakat expand the definition of body recomposition to include three
 - Other Body  Measurements: Measure at the largest site on the muscle. Record both left and right measurements to track asymmetry.
 	- Measure once every month.
 ### Camera (Progress Photos)
+- LIGHT SOURCE - CAMERA - PERSON
+- Take photos with consistent lighting and camera setup at regular intervals.
