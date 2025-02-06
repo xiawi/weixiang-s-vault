@@ -32,5 +32,7 @@ Nippard and Barakat expand the definition of body recomposition to include three
 ### Weighing Scale
 - Weigh as soon as you wake up, after using the bathroom before drinking any water or eating food.
 ### Measuring Tape
-- Waist Circumference: Take measurements consistently. Either at the belly button or the smallest site on the waist.
+- Waist Circumference: Take measurements consistently. Either at the belly button or the smallest site on the waist. Weigh in 4-7 days a week and calculate averages to compare between weeks.
 - Other Body  Measurements: Measure at the largest site on the muscle. Record both left and right measurements to track asymmetry.
+	- Measure once every month.
+### Camera (Progress Photos)
