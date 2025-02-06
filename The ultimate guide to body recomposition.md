@@ -31,3 +31,4 @@ Nippard and Barakat expand the definition of body recomposition to include three
 ## Mandatory Tools
 ### Weighing Scale
 - Weigh as soon as you wake up, after using the bathroom before drinking any water or eating food.
+### Measuring Tape
