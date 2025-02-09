@@ -36,9 +36,19 @@
               "icon": "lucide-file",
               "title": "The ultimate guide to body recomposition"
             }
+          },
+          {
+            "id": "67fd9685a1c7af66",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,10 +223,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c40f13b08b9248c1",
+  "active": "67fd9685a1c7af66",
   "lastOpenFiles": [
-    "daily-notes/2025-02-06 Thursday.md",
     "The ultimate guide to body recomposition.md",
+    "daily-notes/2025-02-06 Thursday.md",
     "Grokking Algorithms.md",
     "daily-notes/2025-02-05 Wednesday.md",
     "daily-notes/2025-01-31 Friday.md",
