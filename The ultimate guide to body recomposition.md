@@ -41,3 +41,7 @@ Nippard and Barakat expand the definition of body recomposition to include three
 ### Food Scale
 - Food scale > volumetric measurements
 - Weigh before cooking
+## Special Tools
+### Skin Calipers
+### BIA
+DON'T GET ATTACHED TO NUMBERS. We're looking for upwards/downwards trends.
