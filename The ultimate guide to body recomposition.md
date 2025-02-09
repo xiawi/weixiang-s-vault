@@ -38,3 +38,6 @@ Nippard and Barakat expand the definition of body recomposition to include three
 ### Camera (Progress Photos)
 - LIGHT SOURCE - CAMERA - PERSON
 - Take photos with consistent lighting and camera setup at regular intervals.
+### Food Scale
+- Food scale > volumetric measurements
+- Weigh before cooking

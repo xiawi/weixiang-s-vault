@@ -41,10 +41,15 @@
             "id": "67fd9685a1c7af66",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "The ultimate guide to body recomposition.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "The ultimate guide to body recomposition"
             }
           }
         ],
